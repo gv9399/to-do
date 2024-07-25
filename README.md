@@ -1,4 +1,4 @@
-to-do App
+to-do app
 
 A simple and efficient to-do application built with React, Tailwind CSS, and React Icons.
 
