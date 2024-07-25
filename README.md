@@ -1,8 +1,53 @@
-# React + Vite
+to-do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and efficient to-do application built with React, Tailwind CSS, and React Icons.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Features
+Add, edit, and delete tasks
+Mark tasks as completed
+Filter tasks (All, Active, Completed)
+Responsive design
+Clean and modern UI
+
+Installation
+
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/to-do.git
+cd to-do
+
+Install the dependencies:
+
+bash
+Copy code
+npm install
+
+Start the development server:
+
+bash
+Copy code
+npm start'
+
+Usage
+
+Open your browser and navigate to http://localhost:3000.
+Use the interface to add, edit, delete, and filter your tasks.
+
+Technologies Used
+
+React
+Tailwind CSS
+React Icons
+
+
+Contributions are welcome! Please follow these steps:
+
+Fork the repository.
+Create a new branch: git checkout -b feature-branch-name.
+Make your changes and commit them: git commit -m 'Add some feature'.
+Push to the branch: git push origin feature-branch-name.
+Open a pull request.
